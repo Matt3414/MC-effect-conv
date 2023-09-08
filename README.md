@@ -1,2 +1,2 @@
-# Minecraft_effect_converter
+# Minecraft effect converter
 Minecraft effect converter
